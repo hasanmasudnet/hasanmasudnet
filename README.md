@@ -34,7 +34,3 @@ Hi, I'm Masud Hasan, a seasoned software developer with a passion for crafting i
 
 I'm always looking for exciting new projects and opportunities to collaborate. Let's work together to bring your ideas to life!
 
----
-
-**📈 GitHub Stats:**
-![Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahim2222&show_icons=true&theme=radical)
